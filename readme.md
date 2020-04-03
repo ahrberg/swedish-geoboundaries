@@ -20,7 +20,7 @@ The goal is to have geodata for a division (no overlapping boundaries) of the Sw
 | Municipality  | Done date  |
 | ------------- | ---------- |
 | ~~Stockholm~~ | 2020-04-03 |
-| Göteborg      |            |
+| ~~Göteborg~~  | 2020-04-03 |
 | Malmö         |            |
 | Uppsala       |            |
 | Linköping     |            |
