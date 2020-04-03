@@ -10,8 +10,8 @@ The goal is to have geodata for a division (no overlapping boundaries) of the Sw
 
 ## Strategy
 
-1. Use the [district division](https://www.lantmateriet.se/sv/Kartor-och-geografisk-information/oppna-data/#faq=b82a) that is shared by Lantmäteriet under the [CC0 Licence](https://creativecommons.org/publicdomain/zero/1.0/legalcode) as the starting point.
-2. Add the regions and municipality's as attributed to the districts. This may not be 100% actuate. [Source](https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_Sveriges_distrikt)
+1. `DONE` Use the [district division](https://www.lantmateriet.se/sv/Kartor-och-geografisk-information/oppna-data/#faq=b82a) that is shared by Lantmäteriet under the [CC0 Licence](https://creativecommons.org/publicdomain/zero/1.0/legalcode) as the starting point.
+2. `DONE` Add the regions and municipality's as attributed to the districts. This may not be 100% actuate. [Source](https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_Sveriges_distrikt)
 3. Merge/modify districts to represent well known municipality's/city boundaries. The source from this may differ and sometimes be guessed by best effort.
 4. Continue this according to [people population](https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning/befolkningens-sammansattning/befolkningsstatistik/pong/tabell-och-diagram/topplistor-kommuner/folkmangd-topp-50/)
 
