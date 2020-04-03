@@ -15,6 +15,23 @@ The goal is to have geodata for a division (no overlapping boundaries) of the Sw
 3. Merge/modify districts to represent well known municipality's/city boundaries. The source from this may differ and sometimes be guessed by best effort.
 4. Continue this according to [people population](https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning/befolkningens-sammansattning/befolkningsstatistik/pong/tabell-och-diagram/topplistor-kommuner/folkmangd-topp-50/)
 
+## TODO
+
+| Municipality  | Done date  |
+| ------------- | ---------- |
+| ~~Stockholm~~ | 2020-04-03 |
+| Göteborg      |            |
+| Malmö         |            |
+| Uppsala       |            |
+| Linköping     |            |
+| Örebro        |            |
+| Västerås      |            |
+| Helsingborg   |            |
+| Norrgköping   |            |
+| Jönköping     |            |
+| Umeå          |            |
+| ...           |            |
+
 ## Contribute
 
 Please contribute if you like!
