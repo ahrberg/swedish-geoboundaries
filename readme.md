@@ -22,7 +22,7 @@ The goal is to have geodata for a division (no overlapping boundaries) of the Sw
 | ~~Stockholm~~ | 2020-04-03 |
 | ~~Göteborg~~  | 2020-04-03 |
 | ~~Malmö~~     | 2020-04-03 |
-| Uppsala       |            |
+| ~~Uppsala~~   | 2020-04-04 |
 | Linköping     |            |
 | Örebro        |            |
 | Västerås      |            |
